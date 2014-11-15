@@ -5,11 +5,12 @@
 ** Login   <elbouh_j@epitech.net>
 ** 
 ** Started on  Sat Nov 15 16:45:22 2014 jamal elbouhali
-** Last update Sat Nov 15 18:46:25 2014 jamal elbouhali
+** Last update Sat Nov 15 18:55:16 2014 jamal elbouhali
 */
 
 #include "my.h"
 #include <stdarg.h>
+#include <stdlib.h>
 
 void	ch(char *format, int i, va_list ap)
 {
