@@ -5,12 +5,12 @@
 ** Login   <elbouh_j@epitech.net>
 ** 
 ** Started on  Sat Nov 15 14:42:14 2014 jamal elbouhali
-** Last update Sat Nov 15 18:04:50 2014 jamal elbouhali
+** Last update Sun Nov 16 20:23:07 2014 jamal elbouhali
 */
 
 #include "my.h"
 
-void	my_putnbr_base(unsigned int nb, char *base)
+void		my_putnbr_base(unsigned int nb, char *base)
 {
   unsigned int	i;
   int		result;
